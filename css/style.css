@@ -443,7 +443,7 @@ a.neutral {
 .portfolio-item .portfolio-thumb img {
     height: auto;
     display: block;
-    max-width: 100%;
+    width: 100%;
 }
 
 .portfolio-item .portfolio-info {
